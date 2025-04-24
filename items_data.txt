@@ -1,0 +1,492 @@
+[
+    {
+        "item_name": "Flawed Veltecite",
+        "item_id": "\"B120cf50-f817-487d-9813-143eac56c884",
+        "item_string": "CommonVeltecite"
+    },
+    {
+        "item_name": "Cloudy Veltecite",
+        "item_id": "Cbe4ec32-9507-4a24-b2cd-c0f47b13f99f",
+        "item_string": "UncommonVelticite"
+    },
+    {
+        "item_name": "Clear Veltecite",
+        "item_id": "7130c91c-30d2-47c1-a3b9-ed8d80f4df95",
+        "item_string": "RareVeltecite"
+    },
+    {
+        "item_name": "Pure Veltecite",
+        "item_id": "8efb4ca9-c4d1-44b4-aa7e-c0568c20cd4b",
+        "item_string": "EpicVeltecite"
+    },
+    {
+        "item_name": "Veltecite Heart",
+        "item_id": "xe307852-adfb-408b-a740-b98c9b7c77a8",
+        "item_string": "VelteciteHeart"
+    },
+    {
+        "item_name": "Focus Crystal",
+        "item_id": "g645120e-debb-4d08-8bd1-cccfd836d04a",
+        "item_string": "FocusCrystal"
+    },
+    {
+        "item_name": "Nickel",
+        "item_id": "84dd69d3-9733-482d-9fec-1da74e717cf9",
+        "item_string": "Nickel"
+    },
+    {
+        "item_name": "Pure Nickel",
+        "item_id": "50c95cbb-a1a0-4802-818a-b1d3783aa294",
+        "item_string": "PureNickel"
+    },
+    {
+        "item_name": "Brittle Titan Ore",
+        "item_id": "deed1097-fbb8-4441-a894-7592456802cb",
+        "item_string": "BrittleTitanOre"
+    },
+    {
+        "item_name": "Titan Ore",
+        "item_id": "c40aec6b-6caf-4e76-a226-a92775fecc6a",
+        "item_string": "TitanOre"
+    },
+    {
+        "item_name": "Meteor Core",
+        "item_id": "ca05605c-1bdf-4661-98e6-d82d438b325d",
+        "item_string": "MeteorCore"
+    },
+    {
+        "item_name": "Meteor Fragment",
+        "item_id": "769c84c7-ffc9-4d00-a4f8-e0b470d120a0",
+        "item_string": "MeteorFragment"
+    },
+    {
+        "item_name": "Blue Runner Egg",
+        "item_id": "ea62fb61-7c6b-4e9a-a047-4906f1a6c656",
+        "item_string": "BlueRunnerEgg"
+    },
+    {
+        "item_name": "Polonium",
+        "item_id": "d27af73a-cdfc-48a1-9087-2eaa0e69791d",
+        "item_string": "Polonium"
+    },
+    {
+        "item_name": "Optic Glass",
+        "item_id": "dc6869db-a0c9-43e7-b01b-b9de8159b8ae",
+        "item_string": "OpticGlass"
+    },
+    {
+        "item_name": "Derelict Explosives",
+        "item_id": "9b4ebf4e-e613-4834-ad7f-6c0a6a087577",
+        "item_string": "DerelictExplosives"
+    },
+    {
+        "item_name": "Compound Sheets",
+        "item_id": "65ddabda-5120-45ba-9012-8c0f2b487faa",
+        "item_string": "CompoundSheets"
+    },
+    {
+        "item_name": "Hydraulic Piston",
+        "item_id": "f97afd35-62f3-41a7-ab7f-cf427b8699ce",
+        "item_string": "HydraulicPiston"
+    },
+    {
+        "item_name": "Gyroscope",
+        "item_id": "e072e764-19c9-4b3a-a17c-90a3d809f1be",
+        "item_string": "Gyroscope"
+    },
+    {
+        "item_name": "Ball Bearings",
+        "item_id": "496b498c-f063-4857-af89-fc133346479c",
+        "item_string": "BallBearings"
+    },
+    {
+        "item_name": "Print Resin",
+        "item_id": "2e6d5c49-01bc-4f8e-a348-1a474a6453ac",
+        "item_string": "PrintResin"
+    },
+    {
+        "item_name": "Shard Slicer",
+        "item_id": "9f29ce3f-f2fa-4929-a18e-a8a347a276e5",
+        "item_string": "ShardSlicer"
+    },
+    {
+        "item_name": "Miniature Reactor",
+        "item_id": "3ec77566-ca27-497c-bdab-b05297860050",
+        "item_string": "MiniatureReactor"
+    },
+    {
+        "item_name": "Shock Absorber",
+        "item_id": "6c2ad573-0baf-4c75-b63a-46630f5219e1",
+        "item_string": "ShockAbsorber"
+    },
+    {
+        "item_name": "Auto Loader",
+        "item_id": "118a1e46-b495-4274-bd59-a9ed18e9264f",
+        "item_string": "AutoLoader"
+    },
+    {
+        "item_name": "Magnetic Field Stabilizer",
+        "item_id": "0d11098e-d80f-42ba-9de6-34ad29e49dc2",
+        "item_string": "MagneticFieldStabilizer"
+    },
+    {
+        "item_name": "Old Currency",
+        "item_id": "a544d28a-92e8-4e35-97fc-7d1becb91b21",
+        "item_string": "OldCurrency"
+    },
+    {
+        "item_name": "Brightcap Mushroom",
+        "item_id": "e443f203-4972-494c-a978-c6df048e9984",
+        "item_string": "BrightcapMushroom"
+    },
+    {
+        "item_name": "Glowy Brightcap Mushroom",
+        "item_id": "180a768c-205f-4de8-b543-5a349a15815d",
+        "item_string": "RadioactiveBrightcapMushroom"
+    },
+    {
+        "item_name": "Pale Ivy Blossom",
+        "item_id": "0db53ad4-b860-47b0-b733-aa2e78f2a708",
+        "item_string": "IvyPlant"
+    },
+    {
+        "item_name": "Indigenous Fruit",
+        "item_id": "786e8ef2-57c8-43ae-afda-5bd1b96fd066",
+        "item_string": "AlienFruit"
+    },
+    {
+        "item_name": "Electronic Cables",
+        "item_id": "63bc1f96-5ee4-405c-a49f-cd1086720ce7",
+        "item_string": "Cables"
+    },
+    {
+        "item_name": "Salvaged Insulation",
+        "item_id": "d4d85e99-9ccc-406c-b44a-72bb89adc652",
+        "item_string": "Insulation"
+    },
+    {
+        "item_name": "Copper Wire",
+        "item_id": "cddf8f31-444c-4c0a-90cf-21460d879774",
+        "item_string": "CopperWire"
+    },
+    {
+        "item_name": "Smart Mesh",
+        "item_id": "1d753d9c-9b24-4ceb-80c2-9e9e0257ec0f",
+        "item_string": "SmartMesh"
+    },
+    {
+        "item_name": "Circuit Board",
+        "item_id": "b19c2c73-0b4a-47a2-ad59-44f250c976cb",
+        "item_string": "CircuitBoard"
+    },
+    {
+        "item_name": "Radio Equipment",
+        "item_id": "6c871d54-ea48-4648-9e3e-702ad52037b5",
+        "item_string": "RadioSpareParts"
+    },
+    {
+        "item_name": "Portable Lab",
+        "item_id": "bc7360f3-d99a-436c-bec5-dd31fc6fbd30",
+        "item_string": "PortableLabEquipmentBox"
+    },
+    {
+        "item_name": "\"Magic-Grow\" Fertilizer",
+        "item_id": "dcc2d277-8d57-4578-85af-a5f7c491bc43",
+        "item_string": "LiquidFertilizer"
+    },
+    {
+        "item_name": "Biological Sampler",
+        "item_id": "b8e36256-8716-4bf8-aa55-cb9ab34f23f2",
+        "item_string": "SamplingDevice"
+    },
+    {
+        "item_name": "Nutritional Bar",
+        "item_id": "55f0da3a-925b-4354-a9b8-8b95a7c5fc57",
+        "item_string": "ProteinBar"
+    },
+    {
+        "item_name": "Jewellery",
+        "item_id": "c0f83195-b614-4dd1-a4c5-446731a1391b",
+        "item_string": "Jewellery"
+    },
+    {
+        "item_name": "Sample Container",
+        "item_id": "98461964-5e84-44ef-848f-269f53cb16d4",
+        "item_string": "SampleContainer"
+    },
+    {
+        "item_name": "Aluminium Scrap",
+        "item_id": "b5c46dae-2fc8-437f-be9c-e0c65cfe015a",
+        "item_string": "AluminumParts"
+    },
+    {
+        "item_name": "Charged Spinal Base",
+        "item_id": "4414ae59-6180-4359-b87a-fe2185c41729",
+        "item_string": "StormyCreatureDrop"
+    },
+    {
+        "item_name": "Strider Head",
+        "item_id": "287aecdd-59ee-4613-88bf-e012d94e012e",
+        "item_string": "AI_StriderHead"
+    },
+    {
+        "item_name": "Rattler Head",
+        "item_id": "e8d677d5-f66f-4f6a-97cf-e51497148f6f",
+        "item_string": "AI_RattlerHead"
+    },
+    {
+        "item_name": "Crusher Head",
+        "item_id": "c2b0b914-1185-4ded-adc0-71e99aed6344",
+        "item_string": "AI_CrusherHead"
+    },
+    {
+        "item_name": "Alpha Crusher Skull",
+        "item_id": "5d89ec0f-a0b2-4008-80ef-48606a4f44f3",
+        "item_string": "AlphaCrusherSkull"
+    },
+    {
+        "item_name": "Strider Flesh",
+        "item_id": "eeb64d08-7a7b-4b88-a578-a75220e20a2e",
+        "item_string": "AI_StriderMeat"
+    },
+    {
+        "item_name": "Rattler Eyes",
+        "item_id": "703fd7a0-6849-436f-9a17-0e5880b87df8",
+        "item_string": "AI_RattlerEyes"
+    },
+    {
+        "item_name": "Crusher Flesh",
+        "item_id": "4cd716e2-c3c3-4148-ab8c-8cfe63f4c44c",
+        "item_string": "AI_CrusherMeat"
+    },
+    {
+        "item_name": "Rattler Skin",
+        "item_id": "be14c813-7a49-41d3-aa10-4091761052f2",
+        "item_string": "AI_RattlerSkin"
+    },
+    {
+        "item_name": "Crusher Hide",
+        "item_id": "d989e693-0308-4221-9832-1074d4536d6e",
+        "item_string": "AI_CrusherSkin"
+    },
+    {
+        "item_name": "Waterweed Filament",
+        "item_id": "46752ea0-ff0e-4a8c-bf19-8678d09c90f8",
+        "item_string": "WaterPlant"
+    },
+    {
+        "item_name": "Toxic",
+        "item_id": "a6a912aa-b6b6-4d2c-8808-6782ca0ecca8",
+        "item_string": "NeuroToxicGlands"
+    },
+    {
+        "item_name": "Korolev Scrip",
+        "item_id": "192817f1-5783-4145-a810-e06f7eb0e359",
+        "item_string": "KorolevScrip"
+    },
+    {
+        "item_name": "Osiris Scrip",
+        "item_id": "483e35f5-5add-43ca-83de-7c292c516000",
+        "item_string": "OsirisScrip"
+    },
+    {
+        "item_name": "ICA Scrip",
+        "item_id": "fe0dbeb7-e718-43ca-ba2f-67920f40f962",
+        "item_string": "ICAScrip"
+    },
+    {
+        "item_name": "Letium",
+        "item_id": "360fe566-b762-4d70-a0af-b9c0596e15d6",
+        "item_string": "Letium"
+    },
+    {
+        "item_name": "NIC Oil Cannister",
+        "item_id": "0365ba7b-a7dc-4dba-adac-ccd253c4aa53",
+        "item_string": "OilTank"
+    },
+    {
+        "item_name": "Heavy Strider Flesh",
+        "item_id": "d1700ba8-e708-444a-998d-4437e75a7c75",
+        "item_string": "AI_StriderMeat_03"
+    },
+    {
+        "item_name": "Mature Rattler Eyes",
+        "item_id": "19ef4420-012c-4ae3-8624-28c98ce140af",
+        "item_string": "AI_RattlerEyes_02"
+    },
+    {
+        "item_name": "Heavy Strider Head",
+        "item_id": "2937f7e4-5e1b-421f-869c-f82ebbe8c6b4",
+        "item_string": "AI_StriderHead_03"
+    },
+    {
+        "item_name": "Mature Rattler Head",
+        "item_id": "cae94e0c-a1f3-4904-8a9d-cd09ff5f7b04",
+        "item_string": "AI_RattlerHead_02"
+    },
+    {
+        "item_name": "Tharis Iron",
+        "item_id": "6f085ac3-fc01-4e08-96f1-9e9a91933712",
+        "item_string": "ForgeIron"
+    },
+    {
+        "item_name": "Pure Tharis Iron",
+        "item_id": "120d1a16-b578-44ec-839f-63b17a8c2906",
+        "item_string": "PureForgeIron"
+    },
+    {
+        "item_name": "Tharis Iron Ingot",
+        "item_id": "3452803c-40c2-46cd-b721-f4b9e8bfcdb0",
+        "item_string": "ForgeIronIngot"
+    },
+    {
+        "item_name": "Charged Tharis Iron Ingot",
+        "item_id": "1f4dad9d-9639-430b-a2b2-fa473889f2c3",
+        "item_string": "ChargedForgeIronIngot"
+    },
+    {
+        "item_name": "Super Charged Tharis Iron Ingot",
+        "item_id": "c2850300-fb1a-4256-b83d-1059c9e17aed",
+        "item_string": "SuperChargedForgeIronIngot"
+    },
+    {
+        "item_name": "Progenitor Slag",
+        "item_id": "bd86eb58-fb0c-409a-9ab9-2934cba15646",
+        "item_string": "AF_Slag"
+    },
+    {
+        "item_name": "Spine Briar",
+        "item_id": "37623691-1404-41d9-b926-337da11eda9e",
+        "item_string": "TentaclePlant"
+    },
+    {
+        "item_name": "\"Fusion Cartridge\" Batteries",
+        "item_id": "df5265fa-d202-422f-86fe-5d182688aa04",
+        "item_string": "Battery"
+    },
+    {
+        "item_name": "Hardened Bone Plates",
+        "item_id": "f1b86fed-1481-4211-8d2c-6a117b8f016e",
+        "item_string": "HardenedBoneAlloy"
+    },
+    {
+        "item_name": "Abyss Alloy",
+        "item_id": "d1781184-8dbe-4ab3-8892-cdc7b868e02d",
+        "item_string": "AF_Token"
+    },
+    {
+        "item_name": "Marauder Head",
+        "item_id": "5a59d92c-43ca-4af6-b563-5f1d7e434ff4",
+        "item_string": "AI_WeremoleHead"
+    },
+    {
+        "item_name": "Savage Marauder Head",
+        "item_id": "85823e0c-a912-447b-833c-ddc08163d964",
+        "item_string": "AI_WeremoleHead_02"
+    },
+    {
+        "item_name": "Alpha Crusher Heart",
+        "item_id": "6ac179ab-c00e-4e5d-b8a9-07f8df5e097e",
+        "item_string": "AlphaWardenHeart"
+    },
+    {
+        "item_name": "Dustbloom",
+        "item_id": "91c830c5-484c-49b7-bd23-2f2cd215412a",
+        "item_string": "DesertPlant"
+    },
+    {
+        "item_name": "Master Unit CPU",
+        "item_id": "2ee73c3b-d64b-4e05-a26e-c0a5fbf68127",
+        "item_string": "CombatCPU_red"
+    },
+    {
+        "item_name": "Mutated Biomass",
+        "item_id": "2bdecd23-b328-483b-b83e-54ec0a4e7d7c",
+        "item_string": "Biomass"
+    },
+    {
+        "item_name": "Savage Marauder Flesh",
+        "item_id": "ce4f5284-bc7c-43ab-808c-28ecbfdd3feb",
+        "item_string": "AI_WeremoleMeat_02"
+    },
+    {
+        "item_name": "Interactive Screen",
+        "item_id": "65a17c58-595e-495f-b6f1-26f10e916c55",
+        "item_string": "Datapad"
+    },
+    {
+        "item_name": "Marauder Flesh",
+        "item_id": "77f05087-f3c2-4114-91c0-27858d5bcb92",
+        "item_string": "AI_WeremoleMeat"
+    },
+    {
+        "item_name": "Salvaged Co-Tec Multitool",
+        "item_id": "62b1c271-7362-47b4-8b96-d745e993dc44",
+        "item_string": "MultiTool"
+    },
+    {
+        "item_name": "Storm Surge Crystal",
+        "item_id": "af0893b0-9c72-4bcc-a076-0fa48a6ca8be",
+        "item_string": "StormSurgeCrystal"
+    },
+    {
+        "item_name": "Zero Systems CPU",
+        "item_id": "8e6a7c2d-18cc-4f9e-a430-f2c7caa0e9ef",
+        "item_string": "CombatCPU_Blue"
+    },
+    {
+        "item_name": "Medical Supplies",
+        "item_id": "ed986cff-c1b0-45ce-90d7-f2d9b734ba26",
+        "item_string": "AnaestheticsContainers"
+    },
+    {
+        "item_name": "Resin Gun",
+        "item_id": "40bca056-e3c3-40a0-b29e-7cff57120437",
+        "item_string": "Adhesive"
+    },
+    {
+        "item_name": "Teratomorphic Crystal Core",
+        "item_id": "6e1ff943-33e9-4f13-891f-47e0fbae75d5",
+        "item_string": "GlowingCrystalCoreShard"
+    },
+    {
+        "item_name": "Azure Tree Bark",
+        "item_id": "a3b8e8e1-c7bb-4d99-bad2-2f8ab43e1cce",
+        "item_string": "BlueWood"
+    },
+    {
+        "item_name": "Hardened Metals",
+        "item_id": "808aeafd-941b-48d6-ade2-e6e5bb6c4662",
+        "item_string": "SpareCasing"
+    },
+    {
+        "item_name": "Metallic Alloys",
+        "item_id": "369b22cd-b572-4e3f-a1c8-21b77e36a8b6",
+        "item_string": "Alloys"
+    },
+    {
+        "item_name": "Old Medicine",
+        "item_id": "751c355a-15c2-41bc-b72a-a38519030ecc",
+        "item_string": "Antibiotics"
+    },
+    {
+        "item_name": "Polymetallic Prefabricate",
+        "item_id": "757ddb44-ab30-4c5f-a015-f0c833741c05",
+        "item_string": "PolymetallicPrefabricate"
+    },
+    {
+        "item_name": "Progenitor Composite",
+        "item_id": "694321d0-d90b-456e-87a8-4e56631e8994",
+        "item_string": "Alien_Scrap"
+    },
+    {
+        "item_name": "Spinal Base",
+        "item_id": "245fc945-a699-4c51-9c66-1f27d76348f6",
+        "item_string": "GenericCreatureDrop"
+    },
+    {
+        "item_name": "Textiles",
+        "item_id": "e7128aaf-175a-42d5-91b3-7cc6025b4c82",
+        "item_string": "Fabrics"
+    }
+]

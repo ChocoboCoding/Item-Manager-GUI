@@ -104,6 +104,8 @@ def update_item_list(filter_text=""):
     filtered_items = [
         item for item in items_list
         if filter_text.lower() in item["item_name"].lower()
+           or filter_text.lower() in item["item_id"].lower()
+           or filter_text.lower() in item["item_string"].lower()
     ]
 
     sorted_items = sorted(filtered_items, key=lambda x: x['item_name'].lower())
@@ -199,6 +201,71 @@ search_var = tk.StringVar()
 entry_search = tk.Entry(frame_search, textvariable=search_var, width=50)
 entry_search.pack(side="left", padx=5)
 search_var.trace("w", on_search_entry_change)  # Trace changes to update dynamically
+
+# Amount + Output
+frame_output = tk.Frame(root)
+frame_output.pack(pady=5)
+
+tk.Label(frame_output, text="Amount:").grid(row=0, column=0, padx=5)
+entry_amount = tk.Entry(frame_output, width=10)
+entry_amount.grid(row=0, column=1, padx=5)
+entry_amount.insert(0, "1")  # ← Default value
+
+def output_item_json():
+    item_id = entry_item_id.get().strip()
+    base_item_id = entry_item_string.get().strip()
+
+    # Check if item is selected
+    if not item_id or not base_item_id:
+        label_message.config(text="Please select an item from the list below first.", fg="red")
+        return
+
+    # Validate amount
+    try:
+        amount = int(entry_amount.get())
+        if amount < 1:
+            raise ValueError
+    except ValueError:
+        label_message.config(text="Amount must be a number greater than 0", fg="red")
+        return
+
+    item_data = {
+        "itemId": item_id,
+        "baseItemId": base_item_id,
+        "primaryVanityId": 0,
+        "secondaryVanityId": 0,
+        "amount": amount,
+        "durability": -1,
+        "modData": {"m": []},
+        "rolledPerks": [],
+        "insurance": "",
+        "insuranceOwnerPlayfabId": "",
+        "insuredAttachmentId": "",
+        "origin": {"t": "", "p": "", "g": ""}
+    }
+
+    json_output = json.dumps(item_data)
+
+    entry_output_string.config(state='normal')
+    entry_output_string.delete(0, tk.END)
+    entry_output_string.insert(0, json_output)
+    entry_output_string.config(state='readonly')
+
+    root.clipboard_clear()
+    root.clipboard_append(json_output)
+    root.update()
+
+    entry_amount.delete(0, tk.END)
+    entry_amount.insert(0, "1")
+    label_message.config(text="Item JSON copied to clipboard!", fg="green")
+
+
+button_output_item = tk.Button(frame_output, text="Output Item", command=output_item_json)
+button_output_item.grid(row=0, column=2, padx=5)
+
+entry_output_string = tk.Entry(frame_output, width=100, state='readonly')
+entry_output_string.grid(row=0, column=3, padx=5)
+
 
 # Treeview list
 columns = ("Item Name", "Item ID", "Item String")
