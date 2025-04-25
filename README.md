@@ -1,6 +1,6 @@
 # 🔧 Item Manager GUI
 
-A simple, user-friendly Python GUI application built with `tkinter` that lets you manage, search, and output item data for game development or inventory systems.
+A simple, user-friendly Python GUI application built with `tkinter` that lets you manage, search, and output item data for editing your inventory in the cycle: reborn.
 
 ## 📦 Features
 
